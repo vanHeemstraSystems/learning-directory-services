@@ -1,5 +1,5 @@
-# learning-directory-services
-Learning Directory Services
+learning-directory-services
+# Learning Directory Services
 
 ## Directory Services & LDAP
 CISSP Domain: Domain 5 - Identity and Access Management (IAM)
